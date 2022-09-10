@@ -26,7 +26,7 @@
             
    <a target="blank" href="https://www.linkedin.com/in/ashish-kumar-sharma-533025204//"><img src="linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
    
- <a href="mailto:akrsharma766@gmail.com"><img src="gmail.png" width="10%" style="padding:0px"/></a>
+ <a href="mailto:akrsharma766@gmail.com"><img src="https://img.icons8.com/bubbles/344/gmail.png" width="10%" style="padding:0px"/></a>
  
 
 </p>
