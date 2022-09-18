@@ -27,7 +27,7 @@
 <a target="blank" href="https://www.instagram.com/ashish_sharma_2.0_/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
 </p>
  
-🛠 Tools and Tech Stack
+## 🛠 Tools and Tech Stack
 
 <p align="center">
             <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="60" />
