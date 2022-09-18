@@ -68,7 +68,7 @@
 <br>
 <table>
  <td align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=AshishSharma1203&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=AshishSharma1203&theme=react-dark&date_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
  </td>
  </table>
 
