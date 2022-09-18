@@ -21,13 +21,13 @@
 ## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
 
 <p align="center">
-<a target="blank" href="https://www.instagram.com/ashish_sharma_2.0_/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
 <a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a>
 <a target="blank" href="https://www.linkedin.com/in/ashish-kumar-sharma-533025204//"><img src="linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
 <a href="mailto:akrsharma766@gmail.com"><img src="https://img.icons8.com/bubbles/344/gmail.png" width="10%" style="padding:0px"/></a>
+<a target="blank" href="https://www.instagram.com/ashish_sharma_2.0_/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
 </p>
  
-<h2>🛠 Tools and Tech Stack</h2>
+🛠 Tools and Tech Stack
 
 <p align="center">
             <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="60" />
@@ -50,31 +50,25 @@
 </p>
 
 
+## ⚙️ GitHub Analytics
 <table>
-<tr>
-  <td align="center">
-  <p align="center">
-  <a href="https://github.com/AshishSharma1203">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshishSharma1203&show_icons=true&locale=en&theme=radical"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/AshishSharma1203">
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishSharma1203&show_icons=true&locale=en&layout=compact&theme=radical" />
-  </a>
-  </td>
-</p>
-</details>
+ <td align="center">
+           <a href="https://github.com/AshishSharma1203"><img align="center" height="200px"src="https://github-readme-stats.vercel.app/api?username=AshishSharma1203&show_icons=true&locale=en&theme=radical"/></a>
+     </td>
+    <td align="center" >
+           <a href="https://github.com/AshishSharma1203"><img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishSharma1203&show_icons=true&locale=en&layout=compact&theme=radical"/></a>
+     </td>
+       
 </table>
 
-<br>
-<p align="left">
-  <a>
-   
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AshishSharma1203&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/> -->
-   
-  </a>
+<p align="center">
+     <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AshishSharma1203&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/></a>
 </p>
 
+<br>
+<table>
+ <td align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=AshishSharma1203&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
+ </td>
+ </table>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AshishSharma1203&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
