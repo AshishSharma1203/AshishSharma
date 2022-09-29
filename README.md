@@ -41,7 +41,7 @@
             <img alt="GIT" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif"  width="90" height="60"/>
             <img alt="GITHUB" src="https://img.icons8.com/color/344/github--v1.png"  width="70" height="80"/>
             
-         
+ 
 <!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
             
            
@@ -71,4 +71,9 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=AshishSharma1203&theme=react-dark&date_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"/>
  </td>
  </table>
+
+## Badges Earned 🥇
+[![@ashish_sharma's Holopin board](https://holopin.io/api/user/board?user=ashish_sharma)](https://holopin.io/@ashish_sharma)     
+ 
+
 
