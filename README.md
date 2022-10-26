@@ -73,8 +73,9 @@
  </td>
  </table>
 
+<!--
 ## Badges Earned 🥇
 [![@ashish_sharma's Holopin board](https://holopin.io/api/user/board?user=ashish_sharma)](https://holopin.io/@ashish_sharma)     
- 
+-->
 
 
