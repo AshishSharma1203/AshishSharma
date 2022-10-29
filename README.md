@@ -73,9 +73,16 @@
  </td>
  </table>
 
-<!--
+<!------------------------------------------ Github Trophy ----------------------------------->
+<h2><img src="gif/trophy.gif" width="45px"/>Github Trophies</h2>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AshishSharma1203&theme=onedark" alt="anupeshverma" /> </p>
+
+
+<!------------------------------------------------------------------ Badges ------------------------------------------------------------>
+
+
 ## Badges Earned 🥇
 [![@ashish_sharma's Holopin board](https://holopin.io/api/user/board?user=ashish_sharma)](https://holopin.io/@ashish_sharma)     
--->
+
 
 
