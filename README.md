@@ -82,6 +82,8 @@
 
 
 ## Badges Earned 🥇
+<a href="https://www.cloudskillsboost.google/public_profiles/878e3695-f586-44f3-a4c8-1da4b361ba5c"><img width="356" alt="Google_Cloud_Badges" src="Icons/google_cloud_badges.png"></a>
+
 [![@ashish_sharma's Holopin board](https://holopin.io/api/user/board?user=ashish_sharma)](https://holopin.io/@ashish_sharma)     
 
 
