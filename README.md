@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AshishSharma1203&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 <h1 align='center'> Hey Geeks <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif"  width="40" height="40"> I'm Ashish</h1>
 
-<h3 align="center"> Converting  Caffeine  <img src="Icons/icons8-coffee-cup.gif" width ="30px">  to Code <img src="Icons/icons8-developer.gif" width ="30px"> . Love to learn and explore <img src="https://thumbs.gfycat.com/AgedBothIndri.webp" width ="50px" >  </h3>
+<h3 align="center"> Converting  Caffeine  <img src="Icons/icons8-coffee-cup.gif" width ="30px">  to Code <img src="Icons/icons8-developer.gif" width ="30px"> & Documenting what I Learn <img src="https://thumbs.gfycat.com/AgedBothIndri.webp" width ="50px" >  </h3>
 
 
 
