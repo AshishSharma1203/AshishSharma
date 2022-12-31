@@ -21,8 +21,8 @@
 
 ## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
 
-<p align="center">
-<a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a>
+<p align="center">            
+<!-- <a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a> -->
 <a target="blank" href="https://www.linkedin.com/in/ashish-kumar-sharma-533025204//"><img src="linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
 <a href="mailto:akrsharma766@gmail.com"><img src="https://img.icons8.com/bubbles/344/gmail.png" width="10%" style="padding:0px"/></a>
 <a target="blank" href="https://www.instagram.com/ashish_sharma_2.0_/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
