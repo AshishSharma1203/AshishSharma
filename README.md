@@ -75,7 +75,7 @@
 
 <!------------------------------------------ Github Trophy ----------------------------------->
 <h2><img src="https://img.icons8.com/office/344/trophy--v1.png" width="45px"/>Github Trophies</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AshishSharma1203&theme=onedark" alt="anupeshverma" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AshishSharma1203&theme=onedark" alt="ashish" /> </p>
 
 
 <!------------------------------------------------------------------ Badges ------------------------------------------------------------>
