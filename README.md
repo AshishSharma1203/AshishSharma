@@ -9,20 +9,20 @@
 ## 🚀 About Me
 <img src="Icons/top right.gif" width="450px" height="300px" alt=gif align="right" > 
 <ul>
-<li> 🎓 Pursuing my Bachelors in Electronic and Communication Enginnering from NIT Allahabad (MNNIT)<br></li>
+<li> 🎓 Pursuing my Bachelors in Electronic and Communication Engineering from NIT Allahabad (MNNIT)<br></li>
             <li> 🔭 Presently I am learning <b>DSA</b><br></li>
-            <li> 🔭 Aspiring to be a Software Developer Engineer<br></li> 
+            <li> 🔭 Aspiring to be a Software  Engineer<br></li> 
             <li> 🔭 Web Developer<br></li>
             <li> 🔭 Hackathons 🙌<br></li>
             <li> 🤔 I’m looking for collaborations in Open Source Projects<br></li>
             <li> 💬 Talk to me about DSA , Web development , Hackathons , Open Source, Tech news<br></li>  
-            <li> 📫 How to reach me **akrsharma766@gmail.com**<br></li>
+            
  </ul>
 
 ## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
 
 <p align="center">            
-<!-- <a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a> -->
+<a target="blank" href="https://twitter.com/"><img src="twitter.png" alt="twitter" width="10%" style="padding:0px"/></a>
 <a target="blank" href="https://www.linkedin.com/in/ashish-kumar-sharma-533025204//"><img src="linkedin.png" alt="linkedin" width="10%" style="padding:0px"/></a>
 <a href="mailto:akrsharma766@gmail.com"><img src="https://img.icons8.com/bubbles/344/gmail.png" width="10%" style="padding:0px"/></a>
 <a target="blank" href="https://www.instagram.com/ashish_sharma_2.0_/"><img src="instagram.png" alt="instagram" width="10%" style="padding:0px"/></a>
@@ -34,7 +34,7 @@
             <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="60" />
              <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  width="70" height="60"/>
             <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="70" height="60"/>
-<!--             <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  width="70" height="60"/> -->
+            <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  width="70" height="60"/>
              <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"  width="70" height="60"/>
             <img alt="HTML5" src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/html.gif"  width="70" height="60"/>
             <img alt="CSS3" src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/css.gif"  width="70" height="60"/>
@@ -46,7 +46,7 @@
 <!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
             
            
-<!-- <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> -->
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <!--             <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  width="70" height="60"/> -->
 </p>
 
